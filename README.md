@@ -1,2 +1,4 @@
 https://AnastasiyaShvedun.github.io/rsschool-cv/cv
-https://AnastasiyaShvedun.github.io/rsschool-cv/
+
+
+https://GITHUB-AnastasiyaShvedun.github.io/rsschool-cv/

@@ -33,7 +33,7 @@ h2 {
     grid-column: 2;
     margin: 15px;
     border-radius: 100%;
-    width: 1000px;
+    width: 100px;
     
 }
 
@@ -84,7 +84,7 @@ footer {
 
 .footer_img {
     margin: 20px;
-    width: 50px;
+    width: 200px;
 }
 
 .github {
